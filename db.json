@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Iphone14",
+      "price": 100000,
+      "description": "The purpose of lorem ipsum is to create a natural looking block of text (sentence, paragraph, page, etc.) that doesn't distract from the layout.",
+      "imagePath": "images/profile.png"
+    },
+    {
+      "id": 2,
+      "name": "Tv",
+      "price": 450000,
+      "description": "The purpose of lorem ipsum is to create a natural looking block of text (sentence, paragraph, page, etc.) that doesn't distract from the layout.",
+      "imagePath": "images/profile.png"
+    },
+    {
+      "id": 3,
+      "name": "Microoven",
+      "price": 18000,
+      "description": "The purpose of lorem ipsum is to create a natural looking block of text (sentence, paragraph, page, etc.) that doesn't distract from the layout.",
+      "imagePath": "images/profile.png"
+    },
+    {
+      "id": 4,
+      "name": "Refrigarator",
+      "price": 18000,
+      "description": "The purpose of lorem ipsum is to create a natural looking block of text (sentence, paragraph, page, etc.) that doesn't distract from the layout.",
+      "imagePath": "images/profile.png"
+    },
+    {
+      "id": 5,
+      "name": "Washing machine",
+      "price": 18000,
+      "description": "The purpose of lorem ipsum is to create a natural looking block of text (sentence, paragraph, page, etc.) that doesn't distract from the layout.",
+      "imagePath": "images/profile.png"
+    },
+    {
+      "id": 6,
+      "name": "Laptop",
+      "price": 18000,
+      "description": "The purpose of lorem ipsum is to create a natural looking block of text (sentence, paragraph, page, etc.) that doesn't distract from the layout.",
+      "imagePath":"images/profile.png"
+    },
+    {
+      "name": "fdd",
+      "price": "400000",
+      "description": "dsdsdsdsds",
+      "image": "dsdsdsdsd",
+      "id": 7
+    },
+    {
+      "name": "dfd",
+      "price": "43434343",
+      "description": "",
+      "image": "",
+      "id": 8
+    }
+  ]
+}

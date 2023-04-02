@@ -1,0 +1,35 @@
+.mynav{
+    font-size: 20px;
+}
+.myprod{
+    margin-left:50px;
+}
+.myproduct{
+    display:inline-block;
+    margin-top: 3%;
+    margin-left: 2%;
+}   
+
+.prodcard{
+    padding: 20px;
+    border: 2px solid blue;
+    border-radius: 15px;
+    margin-left:15px;
+    width:12%;
+    height:20%;
+}
+
+.myimg{
+    display: block;
+    margin: auto;
+    width:50%;
+    height: 50%;
+}
+
+.myadd{
+    width:50%;
+    height: 40%;
+    font-size: 20px;
+    font-weight: bold;
+
+}
